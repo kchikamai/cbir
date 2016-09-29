@@ -1,0 +1,936 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	396;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	399;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	402;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	406;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	408;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	410;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	414;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	417;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	420;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	425;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	428;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	431;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	435;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	391;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	394;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	397;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	403;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	405;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	412;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	415;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	420;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	423;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	426;"	d	file:
+ARCHITECTURE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	430;"	d	file:
+Approx	misc/bak/region.h	/^        inline std::vector<cv::Point> Approx() const$/;"	f	class:Region
+Approx	region.h	/^        inline std::vector<cv::Point> Approx() const$/;"	f	class:Region
+Area	misc/bak/region.h	/^        inline double Area() const$/;"	f	class:Region
+Area	region.h	/^        inline double Area() const$/;"	f	class:Region
+AspectRatio	misc/bak/region.h	/^        inline double AspectRatio() const$/;"	f	class:Region
+AspectRatio	region.h	/^        inline double AspectRatio() const$/;"	f	class:Region
+B	featureP.hpp	/^			double sY, B, sto; \/\/ Gamma(Y) and Beta (B)$/;"	m	struct:cFeatureP::__anon8
+B	mpifun.hpp	/^			double sY, B, sto; \/\/ Gamma(Y) and Beta (B)$/;"	m	struct:CMpifun::__anon1
+BoundingBox	misc/bak/region.h	/^        inline cv::Rect BoundingBox() const$/;"	f	class:Region
+BoundingBox	region.h	/^        inline cv::Rect BoundingBox() const$/;"	f	class:Region
+CMAKE_BINARY_DIR	bld/Makefile	/^CMAKE_BINARY_DIR = \/home\/femkha\/devt\/cbir\/bld$/;"	m
+CMAKE_COMMAND	bld/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	bld/Makefile	/^CMAKE_SOURCE_DIR = \/home\/femkha\/devt\/cbir$/;"	m
+CMpifun	mpifun.cpp	/^CMpifun::CMpifun(int *argc, char*** argv,int maxfilecnt)$/;"	f	class:CMpifun
+CMpifun	mpifun.hpp	/^class CMpifun$/;"	c
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	132;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	147;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	14;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	150;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	153;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	168;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	192;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	210;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	219;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	237;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	244;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	262;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	265;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	268;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	45;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	51;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	57;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	75;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	96;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	224;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	257;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	260;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	263;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	105;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	157;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	172;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	183;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	194;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	213;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	225;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	247;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	252;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	68;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	78;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	91;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	185;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	215;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	106;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	120;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	195;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	20;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	214;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	226;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	231;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	240;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	248;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	253;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	39;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	47;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	54;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	60;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	69;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	79;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	84;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	99;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	197;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	248;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	100;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	114;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	121;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	141;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	159;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	174;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	188;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	215;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	232;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	241;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	249;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	254;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	41;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	48;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	71;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	93;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	204;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	234;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	249;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_TWEAK	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_VERSION_TWEAK	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+COMPILER_VERSION_TWEAK	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_VERSION_TWEAK	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_TWEAK	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+COMPILER_VERSION_TWEAK	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+Centroid	misc/bak/region.h	/^        inline cv::Point Centroid() const$/;"	f	class:Region
+Centroid	region.h	/^        inline cv::Point Centroid() const$/;"	f	class:Region
+ConvexArea	misc/bak/region.h	/^        inline double ConvexArea() const$/;"	f	class:Region
+ConvexArea	region.h	/^        inline double ConvexArea() const$/;"	f	class:Region
+ConvexHull	misc/bak/region.h	/^        inline std::vector<cv::Point> ConvexHull() const$/;"	f	class:Region
+ConvexHull	region.h	/^        inline std::vector<cv::Point> ConvexHull() const$/;"	f	class:Region
+ConvexImage	misc/bak/region.h	/^        inline cv::Mat ConvexImage() const$/;"	f	class:Region
+ConvexImage	region.h	/^        inline cv::Mat ConvexImage() const$/;"	f	class:Region
+DATA_DIR	lib.hpp	/^const string DATA_DIR="\/media\/femkha\/HDB_FemkhaAcer\/images\/full\/";$/;"	v
+DBType	feature.hpp	/^typedef double DBType;$/;"	t
+DBType	featureP.hpp	/^typedef double DBType;$/;"	t
+DEC	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	439;"	d	file:
+DEC	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	434;"	d	file:
+DIM_CLUS_FEAT	lib.hpp	/^const static int DIM_CLUS_FEAT=144; \/\/ cluster feature vector length$/;"	v
+EQUALS	bld/Makefile	/^EQUALS = =$/;"	m
+EXTS	lib.hpp	/^const static string EXTS = "png|jpg|pgm";$/;"	v
+Eccentricity	misc/bak/region.h	/^        inline double Eccentricity() const$/;"	f	class:Region
+Eccentricity	region.h	/^        inline double Eccentricity() const$/;"	f	class:Region
+Ellipse	misc/bak/region.h	/^        inline cv::RotatedRect Ellipse() const$/;"	f	class:Region
+Ellipse	region.h	/^        inline cv::RotatedRect Ellipse() const$/;"	f	class:Region
+EquivalentDiameter	misc/bak/region.h	/^        inline double EquivalentDiameter() const$/;"	f	class:Region
+EquivalentDiameter	region.h	/^        inline double EquivalentDiameter() const$/;"	f	class:Region
+Errno	featureP.hpp	/^		int Errno;$/;"	m	class:cFeatureP
+Errno	mpifun.hpp	/^		int Errno;$/;"	m	class:CMpifun
+Extrema	misc/bak/region.h	/^        inline std::vector<cv::Point> Extrema() const$/;"	f	class:Region
+Extrema	region.h	/^        inline std::vector<cv::Point> Extrema() const$/;"	f	class:Region
+FEATUREP_HPP	featureP.hpp	5;"	d
+FEATURE_HPP	feature.hpp	5;"	d
+FEATURE_HPP	misc/bak/feature.hpp	5;"	d
+FilledArea	misc/bak/region.h	/^        inline double FilledArea() const$/;"	f	class:Region
+FilledArea	region.h	/^        inline double FilledArea() const$/;"	f	class:Region
+FilledImage	misc/bak/region.h	/^        inline cv::Mat FilledImage() const$/;"	f	class:Region
+FilledImage	region.h	/^        inline cv::Mat FilledImage() const$/;"	f	class:Region
+GAU_SIGMA	mcdetect.hpp	/^const int GAU_SIGMA = 2.9; \/\/ Gaussian Sigma_x (=Sigma_y)$/;"	v
+GAU_SIGMA	misc/bak/mcdetect.hpp	/^const int GAU_SIGMA = 2.9; \/\/ Gaussian Sigma_x (=Sigma_y)$/;"	v
+GEOMETRIC_HPP	f_Geometric.hpp	5;"	d
+GLCM_MAX	lib.hpp	/^const static int GLCM_MAX=255; \/\/ exclusive GLCM level. glcm[0..GLCM_MAX-1]$/;"	v
+HARALICK_HPP	f_Haralick.hpp	5;"	d
+HEADER_SZ	featureP.hpp	/^			HEADER_SZ; 				\/\/size of header data for preliminaries$/;"	m	class:cFeatureP
+HEADER_SZ	mpifun.hpp	/^			HEADER_SZ; 				\/\/size of header data for preliminaries$/;"	m	class:CMpifun
+HEX	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	450;"	d	file:
+HEX	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	445;"	d	file:
+ID_VOID_MAIN	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+IND_CLUS_FEAT	lib.hpp	/^const static int IND_CLUS_FEAT=5+(n_GLCMS*n_h_Feats)+4; \/\/ individual feature vector length: 6 shape + 120 haralick + 4 bounding box dimensions$/;"	v
+L	feature.cpp	/^cLib L;$/;"	v
+LIB_HPP	lib.hpp	5;"	d
+LIB_HPP	misc/bak/lib.hpp	5;"	d
+LOCAL_GROUP_SZ	featureP.hpp	31;"	d
+LOCAL_GROUP_SZ	mpifun.hpp	22;"	d
+LOCAL_MASTER	featureP.hpp	30;"	d
+LOCAL_MASTER	mpifun.hpp	21;"	d
+MASTER	featureP.hpp	29;"	d
+MASTER	lib.hpp	20;"	d
+MASTER	mcdetect.hpp	23;"	d
+MASTER	misc/bak/lib.hpp	20;"	d
+MASTER	misc/bak/mcdetect.hpp	21;"	d
+MASTER	mpifun.hpp	20;"	d
+MAX_FILE_COUNT	featureP.hpp	/^			MAX_FILE_COUNT, 		\/\/ Maximum files to read$/;"	m	class:cFeatureP
+MAX_FILE_COUNT	mpifun.hpp	/^			MAX_FILE_COUNT, 		\/\/ Maximum files to read$/;"	m	class:CMpifun
+MCDETECT_HPP	mcdetect.hpp	5;"	d
+MCDETECT_HPP	misc/bak/mcdetect.hpp	5;"	d
+MODE	mpifun.cpp	4;"	d	file:
+MPIFUN	mpifun.hpp	6;"	d
+MYDATATYPE_HPP	misc/bak/mydatatype.hpp	2;"	d
+MYDATATYPE_HPP	mydatatype.hpp	2;"	d
+MY_COMM_GRP	featureP.hpp	/^		MPI_Comm MY_COMM_GRP;$/;"	m	class:cFeatureP
+MY_COMM_GRP	mpifun.hpp	/^		MPI_Comm MY_COMM_GRP;$/;"	m	class:CMpifun
+MajorAxis	misc/bak/region.h	/^        inline double MajorAxis() const$/;"	f	class:Region
+MajorAxis	region.h	/^        inline double MajorAxis() const$/;"	f	class:Region
+Mat2Vec	lib.cpp	/^void cLib::Mat2Vec(vector<vector<double>> &v, Mat &m, bool mat2vec)$/;"	f	class:cLib
+MaxLoc	misc/bak/region.h	/^        inline cv::Point MaxLoc() const$/;"	f	class:Region
+MaxLoc	region.h	/^        inline cv::Point MaxLoc() const$/;"	f	class:Region
+MaxVal	misc/bak/region.h	/^        inline double MaxVal() const$/;"	f	class:Region
+MaxVal	region.h	/^        inline double MaxVal() const$/;"	f	class:Region
+MeanVal	misc/bak/region.h	/^        inline cv::Scalar MeanVal() const$/;"	f	class:Region
+MeanVal	region.h	/^        inline cv::Scalar MeanVal() const$/;"	f	class:Region
+MinLoc	misc/bak/region.h	/^        inline cv::Point MinLoc() const$/;"	f	class:Region
+MinLoc	region.h	/^        inline cv::Point MinLoc() const$/;"	f	class:Region
+MinVal	misc/bak/region.h	/^        inline double MinVal() const$/;"	f	class:Region
+MinVal	region.h	/^        inline double MinVal() const$/;"	f	class:Region
+MinorAxis	misc/bak/region.h	/^        inline double MinorAxis() const$/;"	f	class:Region
+MinorAxis	region.h	/^        inline double MinorAxis() const$/;"	f	class:Region
+Moments	misc/bak/region.h	/^        inline cv::Moments Moments() const$/;"	f	class:Region
+Moments	region.h	/^        inline cv::Moments Moments() const$/;"	f	class:Region
+N	featureP.hpp	/^			int N, k, p, proc_files;$/;"	m	struct:cFeatureP::__anon8
+N	mpifun.hpp	/^			int N, k, p, proc_files;$/;"	m	struct:CMpifun::__anon1
+N_FEATS	lib.hpp	/^const static int N_FEATS=6; 	\/\/ Area, Area (blob pixel count), Compactness, Orientation, Eccentricity, Solidity$/;"	v
+Orientation	misc/bak/region.h	/^        inline double Orientation() const$/;"	f	class:Region
+Orientation	region.h	/^        inline double Orientation() const$/;"	f	class:Region
+PCA_INIT	feature.hpp	/^			bool PCA_INIT; \/\/ is pca structure initialized?$/;"	m	struct:cFeature::__anon14
+PCA_INIT	featureP.hpp	/^			bool PCA_INIT; \/\/ is pca structure initialized?$/;"	m	struct:cFeatureP::__anon7
+PCA_VEC_SZ	lib.hpp	/^const static int PCA_VEC_SZ=35;$/;"	v
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	293;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	296;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	299;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	302;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	305;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	308;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	311;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	314;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	317;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	320;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	323;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	326;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	329;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	332;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	335;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	338;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	341;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	344;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	347;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	350;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	353;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	356;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	359;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	362;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	365;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	369;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	372;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	375;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	378;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	381;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	385;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	291;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	297;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	300;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	303;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	306;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	309;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	312;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	315;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	318;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	321;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	367;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	370;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	373;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	376;"	d	file:
+PLATFORM_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	file:
+Perimeter	misc/bak/region.h	/^        inline double Perimeter() const$/;"	f	class:Region
+Perimeter	region.h	/^        inline double Perimeter() const$/;"	f	class:Region
+PixelList	misc/bak/region.h	/^        inline cv::Mat PixelList() const$/;"	f	class:Region
+PixelList	region.h	/^        inline cv::Mat PixelList() const$/;"	f	class:Region
+READ_DB	feature.cpp	11;"	d	file:
+READ_DB	featureP.cpp	10;"	d	file:
+READ_LDA	feature.cpp	14;"	d	file:
+READ_LDA	featureP.cpp	13;"	d	file:
+READ_PCA	feature.cpp	12;"	d	file:
+READ_PCA	featureP.cpp	11;"	d	file:
+READ_SVM	feature.cpp	13;"	d	file:
+READ_SVM	featureP.cpp	12;"	d	file:
+REGIONPROPS_H	misc/bak/regionprops.h	32;"	d
+REGIONPROPS_H	regionprops.h	32;"	d
+REGION_H	misc/bak/region.h	32;"	d
+REGION_H	region.h	32;"	d
+RM	bld/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+Region	misc/bak/region.h	/^        Region() {}$/;"	f	class:Region
+Region	misc/bak/region.h	/^class Region {$/;"	c
+Region	region.h	/^        Region() {}$/;"	f	class:Region
+Region	region.h	/^class Region {$/;"	c
+RegionProps	misc/bak/regionprops.cpp	/^RegionProps::RegionProps(const std::vector<cv::Point> &_contour,$/;"	f	class:RegionProps
+RegionProps	misc/bak/regionprops.h	/^class RegionProps {$/;"	c
+RegionProps	regionprops.cpp	/^RegionProps::RegionProps(const std::vector<cv::Point> &_contour,$/;"	f	class:RegionProps
+RegionProps	regionprops.h	/^class RegionProps {$/;"	c
+Req	featureP.hpp	/^		MPI_Request *Req; 				\/\/ MPI Request object$/;"	m	class:cFeatureP
+Req	mpifun.hpp	/^		MPI_Request *Req; 				\/\/ MPI Request object$/;"	m	class:CMpifun
+SELECTED	feature.hpp	/^					 SELECTED; \/\/ feature vector db selected?$/;"	m	struct:cFeature::__anon13
+SELECTED	featureP.hpp	/^					 SELECTED; \/\/ feature vector db selected?$/;"	m	struct:cFeatureP::__anon6
+SHELL	bld/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+SIMULATE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+SIMULATE_ID	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+SIMULATE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+SIMULATE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+SIMULATE_ID	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	162;"	d	file:
+SIMULATE_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	177;"	d	file:
+SIMULATE_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+SIMULATE_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+SIMULATE_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+SIMULATE_VERSION_MAJOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	163;"	d	file:
+SIMULATE_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+SIMULATE_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+SIMULATE_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+SIMULATE_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+SIMULATE_VERSION_MINOR	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+STRINGIFY	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	289;"	d	file:
+STRINGIFY	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	284;"	d	file:
+STRINGIFY_HELPER	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	288;"	d	file:
+STRINGIFY_HELPER	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
+SUFFIXES	bld/Makefile	/^SUFFIXES =$/;"	m
+SZ_HEADER	featureP.hpp	36;"	d
+SZ_HEADER	mpifun.hpp	27;"	d
+Solidity	misc/bak/region.h	/^        inline double Solidity() const$/;"	f	class:Region
+Solidity	region.h	/^        inline double Solidity() const$/;"	f	class:Region
+Stat	featureP.hpp	/^		MPI_Status *Stat;$/;"	m	class:cFeatureP
+Stat	mpifun.hpp	/^		MPI_Status *Stat;$/;"	m	class:CMpifun
+TAG_DATA	featureP.hpp	33;"	d
+TAG_DATA	mpifun.hpp	24;"	d
+TAG_HEADER	featureP.hpp	32;"	d
+TAG_HEADER	mpifun.hpp	23;"	d
+TAG_RESULT	featureP.hpp	34;"	d
+TAG_RESULT	mpifun.hpp	25;"	d
+TAG_TERMINATE	featureP.hpp	35;"	d
+TAG_TERMINATE	mpifun.hpp	26;"	d
+TRAIN_HPP	train.hpp	5;"	d
+WITHHEADER	mpifun.hpp	30;"	d
+WORKERS	featureP.hpp	37;"	d
+WORKERS	mpifun.hpp	28;"	d
+a_GLCM	f_Haralick.hpp	/^		double ***a_GLCM;$/;"	m	class:cHaralick
+addFV	feature.cpp	/^void cFeature::addFV(size_t fileidx, string impath, float label)$/;"	f	class:cFeature
+addFV	featureP.cpp	/^void cFeatureP::addFV(size_t fileidx, string impath, Mat GI, float label)$/;"	f	class:cFeatureP
+anotherfunc	mcdetect.cpp	/^void cMcDetect::anotherfunc(cv::Mat &img)$/;"	f	class:cMcDetect
+approx	misc/bak/region.h	/^        std::vector<cv::Point> approx;$/;"	m	class:Region
+approx	misc/bak/regionprops.cpp	/^std::vector<cv::Point> RegionProps::approx()$/;"	f	class:RegionProps
+approx	region.h	/^        std::vector<cv::Point> approx;$/;"	m	class:Region
+approx	regionprops.cpp	/^std::vector<cv::Point> RegionProps::approx()$/;"	f	class:RegionProps
+area	misc/bak/region.h	/^        double area, perimeter;$/;"	m	class:Region
+area	misc/bak/regionprops.cpp	/^double RegionProps::area()$/;"	f	class:RegionProps
+area	region.h	/^        double area, perimeter;$/;"	m	class:Region
+area	regionprops.cpp	/^double RegionProps::area()$/;"	f	class:RegionProps
+aspect_ratio	misc/bak/region.h	/^        double aspect_ratio, equi_diameter, extent;$/;"	m	class:Region
+aspect_ratio	region.h	/^        double aspect_ratio, equi_diameter, extent;$/;"	m	class:Region
+aspectratio	misc/bak/regionprops.cpp	/^double RegionProps::aspectratio()$/;"	f	class:RegionProps
+aspectratio	regionprops.cpp	/^double RegionProps::aspectratio()$/;"	f	class:RegionProps
+borderProcess	mcdetect.cpp	/^Mat cMcDetect::borderProcess(Mat &in)$/;"	f	class:cMcDetect
+borderProcess	misc/bak/mcdetect.cpp	/^Mat cMcDetect::borderProcess(Mat &in)$/;"	f	class:cMcDetect
+boundingBox	misc/bak/region.h	/^        cv::Rect boundingBox;$/;"	m	class:Region
+boundingBox	region.h	/^        cv::Rect boundingBox;$/;"	m	class:Region
+boundingbox	misc/bak/regionprops.cpp	/^cv::Rect RegionProps::boundingbox()$/;"	f	class:RegionProps
+boundingbox	regionprops.cpp	/^cv::Rect RegionProps::boundingbox()$/;"	f	class:RegionProps
+cFeature	feature.cpp	/^cFeature::cFeature(void)$/;"	f	class:cFeature
+cFeature	feature.hpp	/^class cFeature$/;"	c
+cFeature	misc/bak/feature.hpp	/^class cFeature$/;"	c
+cFeatureP	featureP.cpp	/^cFeatureP::cFeatureP(void)$/;"	f	class:cFeatureP
+cFeatureP	featureP.hpp	/^class cFeatureP$/;"	c
+cGeometric	f_Geometric.hpp	/^class cGeometric$/;"	c
+cHaralick	f_Haralick.cpp	/^cHaralick::cHaralick()$/;"	f	class:cHaralick
+cHaralick	f_Haralick.hpp	/^class cHaralick$/;"	c
+cLda	feature.hpp	/^			LDA iLda, cLda; \/\/ Local discriminant analysis$/;"	m	struct:cFeature::__anon11
+cLda	featureP.hpp	/^			LDA iLda, cLda; \/\/ Local discriminant analysis$/;"	m	struct:cFeatureP::__anon4
+cLib	lib.hpp	/^class cLib$/;"	c
+cLib	misc/bak/lib.hpp	/^class cLib$/;"	c
+cMcDetect	mcdetect.hpp	/^class cMcDetect$/;"	c
+cMcDetect	misc/bak/mcdetect.hpp	/^class cMcDetect$/;"	c
+cMyDataType	misc/bak/mydatatype.hpp	/^		inline cMyDataType():nRows(0),nCols(0),dtype('i'),data(0){}$/;"	f	class:cMyDataType
+cMyDataType	misc/bak/mydatatype.hpp	/^		inline cMyDataType(int nr, int nc, char dt, double * d):nRows(nr),nCols(nc),dtype(dt),data(d){}$/;"	f	class:cMyDataType
+cMyDataType	misc/bak/mydatatype.hpp	/^class cMyDataType \/\/ Abstraction container for node-node interchange$/;"	c
+cMyDataType	mydatatype.hpp	/^		inline cMyDataType():nRows(0),nCols(0),dtype('i'),data(0){}$/;"	f	class:cMyDataType
+cMyDataType	mydatatype.hpp	/^		inline cMyDataType(int nr, int nc, char dt, double * d):nRows(nr),nCols(nc),dtype(dt),data(d){}$/;"	f	class:cMyDataType
+cMyDataType	mydatatype.hpp	/^class cMyDataType \/\/ Abstraction container for node-node interchange$/;"	c
+cTrain	train.hpp	/^class cTrain$/;"	c
+c_DB	feature.hpp	/^		Mat i_DB, c_DB; \/\/ individual, cluster database$/;"	m	class:cFeature
+c_DB	featureP.hpp	/^		Mat i_DB, c_DB; \/\/ individual, cluster database$/;"	m	class:cFeatureP
+c_NORMALIZED	feature.hpp	/^			bool i_NORMALIZED, c_NORMALIZED, \/\/ nornmalization data (norm_data) set up?$/;"	m	struct:cFeature::__anon13
+c_NORMALIZED	featureP.hpp	/^			bool i_NORMALIZED, c_NORMALIZED, \/\/ nornmalization data (norm_data) set up?$/;"	m	struct:cFeatureP::__anon6
+c_file_idx	feature.hpp	/^			std::vector<int> i_file_idx, c_file_idx; \/\/ file indices$/;"	m	struct:cFeature::__anon9
+c_file_idx	featureP.hpp	/^			std::vector<int> i_file_idx, c_file_idx; \/\/ file indices$/;"	m	struct:cFeatureP::__anon2
+c_file_name	feature.hpp	/^			vector<string> i_file_name, c_file_name;$/;"	m	struct:cFeature::__anon9
+c_file_name	featureP.hpp	/^			vector<string> i_file_name, c_file_name;$/;"	m	struct:cFeatureP::__anon2
+c_labels	feature.hpp	/^			vector<float> i_labels, c_labels; \/\/ +ve or -ve labels, relevant for training$/;"	m	struct:cFeature::__anon9
+c_labels	featureP.hpp	/^			vector<float> i_labels, c_labels; \/\/ +ve or -ve labels, relevant for training$/;"	m	struct:cFeatureP::__anon2
+c_mean	feature.hpp	/^			Mat i_mean, c_mean;$/;"	m	struct:cFeature::__anon11
+c_mean	feature.hpp	/^			vector<double> i_mean, c_mean, i_stdev, c_stdev; \/\/ mean and standard deviation$/;"	m	struct:cFeature::__anon12
+c_mean	featureP.hpp	/^			Mat i_mean, c_mean;$/;"	m	struct:cFeatureP::__anon4
+c_mean	featureP.hpp	/^			vector<double> i_mean, c_mean, i_stdev, c_stdev; \/\/ mean and standard deviation$/;"	m	struct:cFeatureP::__anon5
+c_min_dist	misc/bak/mcdetect.hpp	/^const float c_min_dist=50;$/;"	v
+c_select	feature.hpp	/^		Mat i_select, c_select, p_select; \/\/ individual, cluster and pca selected features$/;"	m	class:cFeature
+c_select	featureP.hpp	/^		Mat i_select, c_select, p_select; \/\/ individual, cluster and pca selected features$/;"	m	class:cFeatureP
+c_stdev	feature.hpp	/^			vector<double> i_mean, c_mean, i_stdev, c_stdev; \/\/ mean and standard deviation$/;"	m	struct:cFeature::__anon12
+c_stdev	featureP.hpp	/^			vector<double> i_mean, c_mean, i_stdev, c_stdev; \/\/ mean and standard deviation$/;"	m	struct:cFeatureP::__anon5
+c_svm	feature.hpp	/^			Ptr<ml::SVM> i_svm, c_svm;$/;"	m	struct:cFeature::__anon10
+c_svm	featureP.hpp	/^			Ptr<ml::SVM> i_svm, c_svm;$/;"	m	struct:cFeatureP::__anon3
+calculateGLCM	f_Haralick.cpp	/^void cHaralick::calculateGLCM(Mat &GI)$/;"	f	class:cHaralick
+center	misc/bak/region.h	/^        cv::Point center;$/;"	m	class:Region
+center	region.h	/^        cv::Point center;$/;"	m	class:Region
+centroid	misc/bak/region.h	/^        cv::Point centroid;$/;"	m	class:Region
+centroid	misc/bak/regionprops.cpp	/^cv::Point RegionProps::centroid()$/;"	f	class:RegionProps
+centroid	region.h	/^        cv::Point centroid;$/;"	m	class:Region
+centroid	regionprops.cpp	/^cv::Point RegionProps::centroid()$/;"	f	class:RegionProps
+clusterfeats	misc/bak/mcdetect.cpp	/^void cMcDetect::clusterfeats(vector<Point> centroids)$/;"	f	class:cMcDetect
+color	featureP.hpp	/^			color, key,				\/\/ to establish group and ordering in local communication groups$/;"	m	class:cFeatureP
+color	mpifun.hpp	/^			color, key,				\/\/ to establish group and ordering in local communication groups$/;"	m	class:CMpifun
+compute	misc/bak/regionprops.cpp	/^void RegionProps::compute()$/;"	f	class:RegionProps
+compute	regionprops.cpp	/^void RegionProps::compute()$/;"	f	class:RegionProps
+contour	misc/bak/regionprops.h	/^        std::vector<cv::Point> contour;$/;"	m	class:RegionProps
+contour	regionprops.h	/^        std::vector<cv::Point> contour;$/;"	m	class:RegionProps
+converter	lib.cpp	/^void cLib::converter(cMyDataType &im, Mat &mat, int opt)$/;"	f	class:cLib
+converter	misc/bak/lib.cpp	/^void cLib::converter(cMyDataType &im, Mat &mat, int opt)$/;"	f	class:cLib
+convexImage	misc/bak/region.h	/^        cv::Mat convexImage;$/;"	m	class:Region
+convexImage	region.h	/^        cv::Mat convexImage;$/;"	m	class:Region
+convex_area	misc/bak/region.h	/^        double convex_area, solidity;$/;"	m	class:Region
+convex_area	region.h	/^        double convex_area, solidity;$/;"	m	class:Region
+convex_hull	misc/bak/region.h	/^        std::vector< cv::Point> convex_hull;$/;"	m	class:Region
+convex_hull	misc/bak/regionprops.cpp	/^std::vector<cv::Point> RegionProps::convex_hull()$/;"	f	class:RegionProps
+convex_hull	region.h	/^        std::vector< cv::Point> convex_hull;$/;"	m	class:Region
+convex_hull	regionprops.cpp	/^std::vector<cv::Point> RegionProps::convex_hull()$/;"	f	class:RegionProps
+convexarea	misc/bak/regionprops.cpp	/^double RegionProps::convexarea()$/;"	f	class:RegionProps
+convexarea	regionprops.cpp	/^double RegionProps::convexarea()$/;"	f	class:RegionProps
+conveximage	misc/bak/regionprops.cpp	/^cv::Mat RegionProps::conveximage()$/;"	f	class:RegionProps
+conveximage	regionprops.cpp	/^cv::Mat RegionProps::conveximage()$/;"	f	class:RegionProps
+cvh	f_Geometric.cpp	/^void cGeometric::cvh(const cv::Mat &src_gray)$/;"	f	class:cGeometric
+data	misc/bak/mydatatype.hpp	/^		double *data; \/\/ can point to either int or double$/;"	m	class:cMyDataType
+data	mydatatype.hpp	/^		double *data; \/\/ can point to either int or double$/;"	m	class:cMyDataType
+db_data	feature.hpp	/^		} db_data;$/;"	m	class:cFeature	typeref:struct:cFeature::__anon9
+db_data	featureP.hpp	/^		} db_data;$/;"	m	class:cFeatureP	typeref:struct:cFeatureP::__anon2
+db_status	feature.hpp	/^		} db_status;$/;"	m	class:cFeature	typeref:struct:cFeature::__anon13
+db_status	featureP.hpp	/^		} db_status;$/;"	m	class:cFeatureP	typeref:struct:cFeatureP::__anon6
+deepcopy	misc/bak/mydatatype.cpp	/^cMyDataType cMyDataType::deepcopy()$/;"	f	class:cMyDataType
+deepcopy	mydatatype.cpp	/^cMyDataType cMyDataType::deepcopy()$/;"	f	class:cMyDataType
+delaunaytest	misc/Link to final/nearestneighbour.m	/^function tf = delaunaytest(nx, np, dim)$/;"	f
+denoise	mcdetect.cpp	/^Mat cMcDetect::denoise(const cv::Mat &BI)$/;"	f	class:cMcDetect
+distMatrix	f_Geometric.cpp	/^int * cGeometric::distMatrix(vector<Point> &centroids,vector<float> *dm)$/;"	f	class:cGeometric
+doLDA	feature.cpp	/^Mat cFeature::doLDA(Mat &vec, char opt)$/;"	f	class:cFeature
+doLDA	featureP.cpp	/^Mat cFeatureP::doLDA(Mat &vec, char opt)$/;"	f	class:cFeatureP
+doPCA	feature.cpp	/^Mat cFeature::doPCA(Mat &vec, char opt)$/;"	f	class:cFeature
+doPCA	featureP.cpp	/^Mat cFeatureP::doPCA(Mat &vec, char opt)$/;"	f	class:cFeatureP
+doSVM	feature.cpp	/^void cFeature::doSVM(Mat &data, Mat &labels, Mat &res, char opt)$/;"	f	class:cFeature
+doSVM	featureP.cpp	/^void cFeatureP::doSVM(Mat &data, Mat &labels, Mat &res, char opt)$/;"	f	class:cFeatureP
+dtype	misc/bak/mydatatype.hpp	/^		char dtype; \/\/ active union data element: 'i'=idata|'d'=ddata$/;"	m	class:cMyDataType
+dtype	mydatatype.hpp	/^		char dtype; \/\/ active union data element: 'i'=idata|'d'=ddata$/;"	m	class:cMyDataType
+eccentricity	misc/bak/region.h	/^        double orientation, eccentricity;$/;"	m	class:Region
+eccentricity	misc/bak/regionprops.cpp	/^double RegionProps::eccentricity()$/;"	f	class:RegionProps
+eccentricity	region.h	/^        double orientation, eccentricity;$/;"	m	class:Region
+eccentricity	regionprops.cpp	/^double RegionProps::eccentricity()$/;"	f	class:RegionProps
+ellipse	misc/bak/region.h	/^        cv::RotatedRect ellipse;$/;"	m	class:Region
+ellipse	misc/bak/regionprops.cpp	/^cv::RotatedRect RegionProps::ellipse()$/;"	f	class:RegionProps
+ellipse	region.h	/^        cv::RotatedRect ellipse;$/;"	m	class:Region
+ellipse	regionprops.cpp	/^cv::RotatedRect RegionProps::ellipse()$/;"	f	class:RegionProps
+equi_diameter	misc/bak/region.h	/^        double aspect_ratio, equi_diameter, extent;$/;"	m	class:Region
+equi_diameter	region.h	/^        double aspect_ratio, equi_diameter, extent;$/;"	m	class:Region
+equivalentdiameter	misc/bak/regionprops.cpp	/^double RegionProps::equivalentdiameter()$/;"	f	class:RegionProps
+equivalentdiameter	regionprops.cpp	/^double RegionProps::equivalentdiameter()$/;"	f	class:RegionProps
+exec	f_Geometric.cpp	/^vector<vector<vector<double>>> cGeometric::exec(Mat &BI, Mat &GI)$/;"	f	class:cGeometric
+exec	f_Haralick.cpp	/^double *cHaralick::exec(Mat &GI)$/;"	f	class:cHaralick
+exec	feature.cpp	/^void cFeature::exec()$/;"	f	class:cFeature
+exec	featureP.cpp	/^void cFeatureP::exec()$/;"	f	class:cFeatureP
+exec	mcdetect.cpp	/^Mat cMcDetect::exec(Mat &in)$/;"	f	class:cMcDetect
+exec	misc/bak/mcdetect.cpp	/^void cMcDetect::exec(Mat &in, Mat &out)$/;"	f	class:cMcDetect
+extent	misc/bak/region.h	/^        double aspect_ratio, equi_diameter, extent;$/;"	m	class:Region
+extent	misc/bak/regionprops.cpp	/^double RegionProps::extent()$/;"	f	class:RegionProps
+extent	region.h	/^        double aspect_ratio, equi_diameter, extent;$/;"	m	class:Region
+extent	regionprops.cpp	/^double RegionProps::extent()$/;"	f	class:RegionProps
+extrema	misc/bak/region.h	/^        std::vector<cv::Point> extrema;$/;"	m	class:Region
+extrema	misc/bak/regionprops.cpp	/^std::vector<cv::Point> RegionProps::extrema()$/;"	f	class:RegionProps
+extrema	region.h	/^        std::vector<cv::Point> extrema;$/;"	m	class:Region
+extrema	regionprops.cpp	/^std::vector<cv::Point> RegionProps::extrema()$/;"	f	class:RegionProps
+features	bld/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	bld/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+features	misc/bak/feature.cpp	/^void cFeature::features(Mat &in)$/;"	f	class:cFeature
+filledArea	misc/bak/region.h	/^        double filledArea;$/;"	m	class:Region
+filledArea	region.h	/^        double filledArea;$/;"	m	class:Region
+filledImage	misc/bak/region.h	/^        cv::Mat filledImage, pixelList;$/;"	m	class:Region
+filledImage	region.h	/^        cv::Mat filledImage, pixelList;$/;"	m	class:Region
+filledarea	misc/bak/regionprops.cpp	/^double RegionProps::filledarea()$/;"	f	class:RegionProps
+filledarea	regionprops.cpp	/^double RegionProps::filledarea()$/;"	f	class:RegionProps
+filledimage	misc/bak/regionprops.cpp	/^cv::Mat RegionProps::filledimage()$/;"	f	class:RegionProps
+filledimage	regionprops.cpp	/^cv::Mat RegionProps::filledimage()$/;"	f	class:RegionProps
+gausFilt	mcdetect.cpp	/^Mat cMcDetect::gausFilt(Mat &in)$/;"	f	class:cMcDetect
+gausFilt	misc/bak/mcdetect.cpp	/^Mat cMcDetect::gausFilt(Mat &in)$/;"	f	class:cMcDetect
+generateDB	feature.cpp	/^void cFeature::generateDB()$/;"	f	class:cFeature
+generateDB	featureP.cpp	/^void cFeatureP::generateDB()$/;"	f	class:cFeatureP
+getDB	feature.cpp	/^void cFeature::getDB()$/;"	f	class:cFeature
+getDB	featureP.cpp	/^void cFeatureP::getDB()$/;"	f	class:cFeatureP
+getData	mpifun.cpp	/^vector<myDataType *> CMpifun::getData()$/;"	f	class:CMpifun
+getFeats	f_Geometric.cpp	/^vector<vector<vector<double>>> cGeometric::getFeats(const cv::Mat &BI, cv::Mat &GI, bool o_getclus)$/;"	f	class:cGeometric
+getLatency	mpifun.cpp	/^void CMpifun::getLatency()$/;"	f	class:CMpifun
+getMeanStdev	lib.cpp	/^void cLib::getMeanStdev(Mat &m, vector<double> &mn, vector<double> &stdev, bool dim1, bool o_removeNanInf)$/;"	f	class:cLib
+getMeanStdev	lib.cpp	/^void cLib::getMeanStdev(vector<vector<double>> &v, vector<double> &mn, vector<double> &stdev, bool dim1, bool o_removeNanInf)$/;"	f	class:cLib
+getRegion	misc/bak/regionprops.h	/^        inline Region getRegion() const$/;"	f	class:RegionProps
+getRegion	regionprops.h	/^        inline Region getRegion() const$/;"	f	class:RegionProps
+getSelData	feature.cpp	/^void cFeature::getSelData()$/;"	f	class:cFeature
+getSelData	featureP.cpp	/^void cFeatureP::getSelData()$/;"	f	class:cFeatureP
+glob_myRank	featureP.hpp	/^		int myRank, glob_myRank,$/;"	m	class:cFeatureP
+glob_myRank	mpifun.hpp	/^		int myRank, glob_myRank,$/;"	m	class:CMpifun
+glob_node_sz	featureP.hpp	/^			node_sz, glob_node_sz,	\/\/ number of all threads \/ cores$/;"	m	class:cFeatureP
+glob_node_sz	mpifun.hpp	/^			node_sz, glob_node_sz,	\/\/ number of all threads \/ cores$/;"	m	class:CMpifun
+h_Feats	f_Haralick.hpp	/^		double h_Feats[n_GLCMS*n_h_Feats]; \/\/ #haralick features: Contrast, correlation, energy, homogeneity, Entropy, Max probability$/;"	m	class:cHaralick
+harFeats	f_Haralick.cpp	/^void cHaralick::harFeats()$/;"	f	class:cHaralick
+header	featureP.hpp	/^		double *in_buf, *out_buf, header[SZ_HEADER];$/;"	m	class:cFeatureP
+header	mpifun.hpp	/^		double *in_buf, *out_buf, header[SZ_HEADER];$/;"	m	class:CMpifun
+iLda	feature.hpp	/^			LDA iLda, cLda; \/\/ Local discriminant analysis$/;"	m	struct:cFeature::__anon11
+iLda	featureP.hpp	/^			LDA iLda, cLda; \/\/ Local discriminant analysis$/;"	m	struct:cFeatureP::__anon4
+i_DB	feature.hpp	/^		Mat i_DB, c_DB; \/\/ individual, cluster database$/;"	m	class:cFeature
+i_DB	featureP.hpp	/^		Mat i_DB, c_DB; \/\/ individual, cluster database$/;"	m	class:cFeatureP
+i_NORMALIZED	feature.hpp	/^			bool i_NORMALIZED, c_NORMALIZED, \/\/ nornmalization data (norm_data) set up?$/;"	m	struct:cFeature::__anon13
+i_NORMALIZED	featureP.hpp	/^			bool i_NORMALIZED, c_NORMALIZED, \/\/ nornmalization data (norm_data) set up?$/;"	m	struct:cFeatureP::__anon6
+i_file_idx	feature.hpp	/^			std::vector<int> i_file_idx, c_file_idx; \/\/ file indices$/;"	m	struct:cFeature::__anon9
+i_file_idx	featureP.hpp	/^			std::vector<int> i_file_idx, c_file_idx; \/\/ file indices$/;"	m	struct:cFeatureP::__anon2
+i_file_name	feature.hpp	/^			vector<string> i_file_name, c_file_name;$/;"	m	struct:cFeature::__anon9
+i_file_name	featureP.hpp	/^			vector<string> i_file_name, c_file_name;$/;"	m	struct:cFeatureP::__anon2
+i_labels	feature.hpp	/^			vector<float> i_labels, c_labels; \/\/ +ve or -ve labels, relevant for training$/;"	m	struct:cFeature::__anon9
+i_labels	featureP.hpp	/^			vector<float> i_labels, c_labels; \/\/ +ve or -ve labels, relevant for training$/;"	m	struct:cFeatureP::__anon2
+i_mean	feature.hpp	/^			Mat i_mean, c_mean;$/;"	m	struct:cFeature::__anon11
+i_mean	feature.hpp	/^			vector<double> i_mean, c_mean, i_stdev, c_stdev; \/\/ mean and standard deviation$/;"	m	struct:cFeature::__anon12
+i_mean	featureP.hpp	/^			Mat i_mean, c_mean;$/;"	m	struct:cFeatureP::__anon4
+i_mean	featureP.hpp	/^			vector<double> i_mean, c_mean, i_stdev, c_stdev; \/\/ mean and standard deviation$/;"	m	struct:cFeatureP::__anon5
+i_select	feature.hpp	/^		Mat i_select, c_select, p_select; \/\/ individual, cluster and pca selected features$/;"	m	class:cFeature
+i_select	featureP.hpp	/^		Mat i_select, c_select, p_select; \/\/ individual, cluster and pca selected features$/;"	m	class:cFeatureP
+i_stdev	feature.hpp	/^			vector<double> i_mean, c_mean, i_stdev, c_stdev; \/\/ mean and standard deviation$/;"	m	struct:cFeature::__anon12
+i_stdev	featureP.hpp	/^			vector<double> i_mean, c_mean, i_stdev, c_stdev; \/\/ mean and standard deviation$/;"	m	struct:cFeatureP::__anon5
+i_svm	feature.hpp	/^			Ptr<ml::SVM> i_svm, c_svm;$/;"	m	struct:cFeature::__anon10
+i_svm	featureP.hpp	/^			Ptr<ml::SVM> i_svm, c_svm;$/;"	m	struct:cFeatureP::__anon3
+img	misc/bak/regionprops.h	/^        cv::Mat img;$/;"	m	class:RegionProps
+img	regionprops.h	/^        cv::Mat img;$/;"	m	class:RegionProps
+in_buf	featureP.hpp	/^		double *in_buf, *out_buf, header[SZ_HEADER];$/;"	m	class:cFeatureP
+in_buf	mpifun.hpp	/^		double *in_buf, *out_buf, header[SZ_HEADER];$/;"	m	class:CMpifun
+info_arch	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+init_stuff	featureP.cpp	/^void cFeatureP::init_stuff()$/;"	f	class:cFeatureP
+init_stuff	mpifun.cpp	/^void CMpifun::init_stuff()$/;"	f	class:CMpifun
+k	featureP.hpp	/^			int N, k, p, proc_files;$/;"	m	struct:cFeatureP::__anon8
+k	mpifun.hpp	/^			int N, k, p, proc_files;$/;"	m	struct:CMpifun::__anon1
+key	featureP.hpp	/^			color, key,				\/\/ to establish group and ordering in local communication groups$/;"	m	class:cFeatureP
+key	mpifun.hpp	/^			color, key,				\/\/ to establish group and ordering in local communication groups$/;"	m	class:CMpifun
+lda_trained	feature.hpp	/^			bool lda_trained;$/;"	m	struct:cFeature::__anon11
+lda_trained	featureP.hpp	/^			bool lda_trained;$/;"	m	struct:cFeatureP::__anon4
+loc_master	featureP.hpp	/^			loc_master,					\/\/ local master group$/;"	m	class:cFeatureP
+loc_master	mpifun.hpp	/^			loc_master,					\/\/ local master group$/;"	m	class:CMpifun
+local_group	featureP.hpp	/^			*local_group,			\/\/ local master assignments (index = rank no)$/;"	m	class:cFeatureP
+local_group	mpifun.hpp	/^			*local_group,			\/\/ local master assignments (index = rank no)$/;"	m	class:CMpifun
+main	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	bld/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	bld/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	main.cpp	/^int main( int argc, char** argv )$/;"	f
+main	misc/bak/main.cpp	/^int main( int argc, char** argv )$/;"	f
+majoraxis_length	misc/bak/region.h	/^        double majoraxis_length, minoraxis_length;$/;"	m	class:Region
+majoraxis_length	region.h	/^        double majoraxis_length, minoraxis_length;$/;"	m	class:Region
+majoraxislength	misc/bak/regionprops.cpp	/^double RegionProps::majoraxislength()$/;"	f	class:RegionProps
+majoraxislength	regionprops.cpp	/^double RegionProps::majoraxislength()$/;"	f	class:RegionProps
+master	mpifun.cpp	/^void CMpifun::master()$/;"	f	class:CMpifun
+master_table	featureP.hpp	/^			*master_table,$/;"	m	class:cFeatureP
+master_table	mpifun.hpp	/^			*master_table,$/;"	m	class:CMpifun
+max_G	f_Haralick.hpp	/^		int max_G, min_G; \/\/ maximum and minimum grey levels in image$/;"	m	class:cHaralick
+maxloc	misc/bak/region.h	/^        cv::Point maxloc, minloc;$/;"	m	class:Region
+maxloc	region.h	/^        cv::Point maxloc, minloc;$/;"	m	class:Region
+maxval	misc/bak/region.h	/^        double maxval, minval;$/;"	m	class:Region
+maxval	region.h	/^        double maxval, minval;$/;"	m	class:Region
+meanval	misc/bak/region.h	/^        cv::Scalar meanval;$/;"	m	class:Region
+meanval	region.h	/^        cv::Scalar meanval;$/;"	m	class:Region
+medFilt	mcdetect.cpp	/^Mat cMcDetect::medFilt(Mat &in)$/;"	f	class:cMcDetect
+medFilt	misc/bak/mcdetect.cpp	/^Mat cMcDetect::medFilt(Mat &in)$/;"	f	class:cMcDetect
+message	mpifun.cpp	/^void CMpifun::message(string msg)$/;"	f	class:CMpifun
+metadata	feature.hpp	/^			PCA metadata;$/;"	m	struct:cFeature::__anon14
+metadata	featureP.hpp	/^			PCA metadata;$/;"	m	struct:cFeatureP::__anon7
+min_G	f_Haralick.hpp	/^		int max_G, min_G; \/\/ maximum and minimum grey levels in image$/;"	m	class:cHaralick
+minloc	misc/bak/region.h	/^        cv::Point maxloc, minloc;$/;"	m	class:Region
+minloc	region.h	/^        cv::Point maxloc, minloc;$/;"	m	class:Region
+minn	misc/Link to final/nearestneighbour.m	/^function I = minn(x, n)$/;"	f
+minoraxis_length	misc/bak/region.h	/^        double majoraxis_length, minoraxis_length;$/;"	m	class:Region
+minoraxis_length	region.h	/^        double majoraxis_length, minoraxis_length;$/;"	m	class:Region
+minoraxislength	misc/bak/regionprops.cpp	/^double RegionProps::minoraxislength()$/;"	f	class:RegionProps
+minoraxislength	regionprops.cpp	/^double RegionProps::minoraxislength()$/;"	f	class:RegionProps
+minval	misc/bak/region.h	/^        double maxval, minval;$/;"	m	class:Region
+minval	region.h	/^        double maxval, minval;$/;"	m	class:Region
+moments	misc/bak/region.h	/^        cv::Moments moments;$/;"	m	class:Region
+moments	misc/bak/regionprops.cpp	/^cv::Moments RegionProps::moments()$/;"	f	class:RegionProps
+moments	region.h	/^        cv::Moments moments;$/;"	m	class:Region
+moments	regionprops.cpp	/^cv::Moments RegionProps::moments()$/;"	f	class:RegionProps
+myRank	featureP.hpp	/^		int myRank, glob_myRank,$/;"	m	class:cFeatureP
+myRank	lib.hpp	/^		int myRank;$/;"	m	class:cLib
+myRank	misc/bak/lib.hpp	/^		int myRank;$/;"	m	class:cLib
+myRank	mpifun.hpp	/^		int myRank, glob_myRank,$/;"	m	class:CMpifun
+nCols	misc/bak/mydatatype.hpp	/^		int nRows, nCols; \/\/ Number of columns and rows of data (set one of them to 1 for unidimensional vector$/;"	m	class:cMyDataType
+nCols	mydatatype.hpp	/^		int nRows, nCols; \/\/ Number of columns and rows of data (set one of them to 1 for unidimensional vector$/;"	m	class:cMyDataType
+nRows	misc/bak/mydatatype.hpp	/^		int nRows, nCols; \/\/ Number of columns and rows of data (set one of them to 1 for unidimensional vector$/;"	m	class:cMyDataType
+nRows	mydatatype.hpp	/^		int nRows, nCols; \/\/ Number of columns and rows of data (set one of them to 1 for unidimensional vector$/;"	m	class:cMyDataType
+n_GLCMS	lib.hpp	/^const static int n_GLCMS=20; \/\/ number of glcms$/;"	v
+n_h_Feats	lib.hpp	/^const static int n_h_Feats=6; \/\/ #haralick features: Contrast, correlation, energy, homogeneity, Entropy, Max probability$/;"	v
+nearestneighbour	misc/Link to final/nearestneighbour.m	/^function [idx, tri] = nearestneighbour(varargin)$/;"	f
+node_sz	featureP.hpp	/^			node_sz, glob_node_sz,	\/\/ number of all threads \/ cores$/;"	m	class:cFeatureP
+node_sz	mpifun.hpp	/^			node_sz, glob_node_sz,	\/\/ number of all threads \/ cores$/;"	m	class:CMpifun
+norm_data	feature.hpp	/^		} norm_data; \/\/ Normalization data$/;"	m	class:cFeature	typeref:struct:cFeature::__anon12
+norm_data	featureP.hpp	/^		} norm_data; \/\/ Normalization data$/;"	m	class:cFeatureP	typeref:struct:cFeatureP::__anon5
+normalizeDB	feature.cpp	/^void cFeature::normalizeDB(Mat &fv, char c_opt, bool normalizeVec)$/;"	f	class:cFeature
+normalizeDB	featureP.cpp	/^void cFeatureP::normalizeDB(Mat &fv, char c_opt, bool normalizeVec)$/;"	f	class:cFeatureP
+num_loc_groups	featureP.hpp	/^			num_loc_groups,			\/\/ number of local groups$/;"	m	class:cFeatureP
+num_loc_groups	mpifun.hpp	/^			num_loc_groups,			\/\/ number of local groups$/;"	m	class:CMpifun
+operator %	misc/bak/mydatatype.cpp	/^cMyDataType cMyDataType::operator%(const cMyDataType& RHS)$/;"	f	class:cMyDataType
+operator %	misc/bak/mydatatype.cpp	/^cMyDataType cMyDataType::operator%(const double RHS)$/;"	f	class:cMyDataType
+operator %	mydatatype.cpp	/^cMyDataType cMyDataType::operator%(const cMyDataType& RHS)$/;"	f	class:cMyDataType
+operator %	mydatatype.cpp	/^cMyDataType cMyDataType::operator%(const double RHS)$/;"	f	class:cMyDataType
+operator *	misc/bak/mydatatype.cpp	/^cMyDataType cMyDataType::operator*(const cMyDataType& RHS)$/;"	f	class:cMyDataType
+operator *	misc/bak/mydatatype.cpp	/^cMyDataType cMyDataType::operator*(const double RHS)$/;"	f	class:cMyDataType
+operator *	mydatatype.cpp	/^cMyDataType cMyDataType::operator*(const cMyDataType& RHS)$/;"	f	class:cMyDataType
+operator *	mydatatype.cpp	/^cMyDataType cMyDataType::operator*(const double RHS)$/;"	f	class:cMyDataType
+operator +	misc/bak/mydatatype.cpp	/^cMyDataType cMyDataType::operator+(const cMyDataType& RHS)$/;"	f	class:cMyDataType
+operator +	misc/bak/mydatatype.cpp	/^cMyDataType cMyDataType::operator+(const double RHS)$/;"	f	class:cMyDataType
+operator +	mydatatype.cpp	/^cMyDataType cMyDataType::operator+(const cMyDataType& RHS)$/;"	f	class:cMyDataType
+operator +	mydatatype.cpp	/^cMyDataType cMyDataType::operator+(const double RHS)$/;"	f	class:cMyDataType
+operator -	misc/bak/mydatatype.cpp	/^cMyDataType cMyDataType::operator-(const cMyDataType& RHS)$/;"	f	class:cMyDataType
+operator -	misc/bak/mydatatype.cpp	/^cMyDataType cMyDataType::operator-(const double RHS)$/;"	f	class:cMyDataType
+operator -	mydatatype.cpp	/^cMyDataType cMyDataType::operator-(const cMyDataType& RHS)$/;"	f	class:cMyDataType
+operator -	mydatatype.cpp	/^cMyDataType cMyDataType::operator-(const double RHS)$/;"	f	class:cMyDataType
+operator /	misc/bak/mydatatype.cpp	/^cMyDataType cMyDataType::operator\/(const cMyDataType& RHS)$/;"	f	class:cMyDataType
+operator /	misc/bak/mydatatype.cpp	/^cMyDataType cMyDataType::operator\/(const double RHS)$/;"	f	class:cMyDataType
+operator /	mydatatype.cpp	/^cMyDataType cMyDataType::operator\/(const cMyDataType& RHS)$/;"	f	class:cMyDataType
+operator /	mydatatype.cpp	/^cMyDataType cMyDataType::operator\/(const double RHS)$/;"	f	class:cMyDataType
+opt_k	featureP.hpp	/^		} opt_k;$/;"	m	class:cFeatureP	typeref:struct:cFeatureP::__anon8
+opt_k	mpifun.hpp	/^		} opt_k;$/;"	m	class:CMpifun	typeref:struct:CMpifun::__anon1
+orientation	misc/bak/region.h	/^        double orientation, eccentricity;$/;"	m	class:Region
+orientation	misc/bak/regionprops.cpp	/^double RegionProps::orientation()$/;"	f	class:RegionProps
+orientation	region.h	/^        double orientation, eccentricity;$/;"	m	class:Region
+orientation	regionprops.cpp	/^double RegionProps::orientation()$/;"	f	class:RegionProps
+out_buf	featureP.hpp	/^		double *in_buf, *out_buf, header[SZ_HEADER];$/;"	m	class:cFeatureP
+out_buf	mpifun.hpp	/^		double *in_buf, *out_buf, header[SZ_HEADER];$/;"	m	class:CMpifun
+output	lib.cpp	/^void cLib::output(const cMyDataType &im)$/;"	f	class:cLib
+output	lib.hpp	/^template <class T> void cLib::output(const vector<T> &v)$/;"	f	class:cLib
+output	lib.hpp	/^template <class T> void cLib::output(const vector<vector<T>> &v)$/;"	f	class:cLib
+output	misc/bak/lib.cpp	/^void cLib::output(const cMyDataType &im)$/;"	f	class:cLib
+p	featureP.hpp	/^			int N, k, p, proc_files;$/;"	m	struct:cFeatureP::__anon8
+p	mpifun.hpp	/^			int N, k, p, proc_files;$/;"	m	struct:CMpifun::__anon1
+p_select	feature.hpp	/^		Mat i_select, c_select, p_select; \/\/ individual, cluster and pca selected features$/;"	m	class:cFeature
+p_select	featureP.hpp	/^		Mat i_select, c_select, p_select; \/\/ individual, cluster and pca selected features$/;"	m	class:cFeatureP
+parseinputs	misc/Link to final/nearestneighbour.m	/^function [P, X, fIndexed, userParams] = parseinputs(userParams, varargin)$/;"	f
+pca_data	feature.hpp	/^		} pca_data;$/;"	m	class:cFeature	typeref:struct:cFeature::__anon14
+pca_data	featureP.hpp	/^		} pca_data;$/;"	m	class:cFeatureP	typeref:struct:cFeatureP::__anon7
+perimeter	misc/bak/region.h	/^        double area, perimeter;$/;"	m	class:Region
+perimeter	misc/bak/regionprops.cpp	/^double RegionProps::perimeter()$/;"	f	class:RegionProps
+perimeter	region.h	/^        double area, perimeter;$/;"	m	class:Region
+perimeter	regionprops.cpp	/^double RegionProps::perimeter()$/;"	f	class:RegionProps
+pixelList	misc/bak/region.h	/^        cv::Mat filledImage, pixelList;$/;"	m	class:Region
+pixelList	region.h	/^        cv::Mat filledImage, pixelList;$/;"	m	class:Region
+pixellist	misc/bak/regionprops.cpp	/^cv::Mat RegionProps::pixellist()$/;"	f	class:RegionProps
+pixellist	regionprops.cpp	/^cv::Mat RegionProps::pixellist()$/;"	f	class:RegionProps
+pixelparameters	misc/bak/regionprops.cpp	/^void RegionProps::pixelparameters()$/;"	f	class:RegionProps
+pixelparameters	regionprops.cpp	/^void RegionProps::pixelparameters()$/;"	f	class:RegionProps
+proc_files	featureP.hpp	/^			int N, k, p, proc_files;$/;"	m	struct:cFeatureP::__anon8
+proc_files	mpifun.hpp	/^			int N, k, p, proc_files;$/;"	m	struct:CMpifun::__anon1
+qda_data	feature.hpp	/^		} qda_data;$/;"	m	class:cFeature	typeref:struct:cFeature::__anon11
+qda_data	featureP.hpp	/^		} qda_data;$/;"	m	class:cFeatureP	typeref:struct:cFeatureP::__anon4
+qnxnto	bld/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	bld/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+readImage	lib.cpp	/^int cLib::readImage(string path, Mat &mat)$/;"	f	class:cLib
+readImage	misc/bak/lib.cpp	/^int cLib::readImage(string path, Mat &mat)$/;"	f	class:cLib
+region	misc/bak/regionprops.h	/^        Region region;$/;"	m	class:RegionProps
+region	regionprops.h	/^        Region region;$/;"	m	class:RegionProps
+removeNanInf	lib.hpp	/^template <class T> Mat cLib::removeNanInf(Mat M, bool t_Nan, bool t_Inf, bool t_byRows)$/;"	f	class:cLib
+removenoise	misc/bak/mcdetect.cpp	/^Mat cMcDetect::removenoise(Mat &BI)$/;"	f	class:cMcDetect
+rescaleIntensity	lib.cpp	/^void cLib::rescaleIntensity()$/;"	f	class:cLib
+rescaleIntensity	misc/bak/lib.cpp	/^void cLib::rescaleIntensity()$/;"	f	class:cLib
+sY	featureP.hpp	/^			double sY, B, sto; \/\/ Gamma(Y) and Beta (B)$/;"	m	struct:cFeatureP::__anon8
+sY	mpifun.hpp	/^			double sY, B, sto; \/\/ Gamma(Y) and Beta (B)$/;"	m	struct:CMpifun::__anon1
+s_cDB	feature.hpp	/^			Mat s_iDB, s_cDB;$/;"	m	struct:cFeature::__anon10
+s_cDB	featureP.hpp	/^			Mat s_iDB, s_cDB;$/;"	m	struct:cFeatureP::__anon3
+s_iDB	feature.hpp	/^			Mat s_iDB, s_cDB;$/;"	m	struct:cFeature::__anon10
+s_iDB	featureP.hpp	/^			Mat s_iDB, s_cDB;$/;"	m	struct:cFeatureP::__anon3
+saveClassData	feature.cpp	/^void cFeature::saveClassData(bool o_READ)$/;"	f	class:cFeature
+saveClassData	featureP.cpp	/^void cFeatureP::saveClassData(bool o_READ)$/;"	f	class:cFeatureP
+selectFV	feature.cpp	/^void cFeature::selectFV(Mat &fv, char c_opt)$/;"	f	class:cFeature
+selectFV	featureP.cpp	/^void cFeatureP::selectFV(Mat &fv, char c_opt)$/;"	f	class:cFeatureP
+sendData	mpifun.cpp	/^double * CMpifun::sendData()$/;"	f	class:CMpifun
+send_time_N	featureP.hpp	/^		double *send_time_sum; int *send_time_N;$/;"	m	class:cFeatureP
+send_time_N	mpifun.hpp	/^		double *send_time_sum; int *send_time_N;$/;"	m	class:CMpifun
+send_time_sum	featureP.hpp	/^		double *send_time_sum; int *send_time_N;$/;"	m	class:cFeatureP
+send_time_sum	mpifun.hpp	/^		double *send_time_sum; int *send_time_N;$/;"	m	class:CMpifun
+serializeMat	lib.cpp	/^void cLib::serializeMat(string impath, Mat &mat, bool o_READ)$/;"	f	class:cLib
+setApprox	misc/bak/region.h	/^        inline void setApprox(const std::vector<cv::Point> &_approx)$/;"	f	class:Region
+setApprox	region.h	/^        inline void setApprox(const std::vector<cv::Point> &_approx)$/;"	f	class:Region
+setArea	misc/bak/region.h	/^        inline void setArea(const double &_area)$/;"	f	class:Region
+setArea	region.h	/^        inline void setArea(const double &_area)$/;"	f	class:Region
+setAspectRatio	misc/bak/region.h	/^        inline void setAspectRatio(const double &_aspect_ratio)$/;"	f	class:Region
+setAspectRatio	region.h	/^        inline void setAspectRatio(const double &_aspect_ratio)$/;"	f	class:Region
+setBoundingBox	misc/bak/region.h	/^        inline void setBoundingBox(const cv::Rect &_boundingBox)$/;"	f	class:Region
+setBoundingBox	region.h	/^        inline void setBoundingBox(const cv::Rect &_boundingBox)$/;"	f	class:Region
+setCentroid	misc/bak/region.h	/^        inline void setCentroid(const cv::Point &_centroid)$/;"	f	class:Region
+setCentroid	region.h	/^        inline void setCentroid(const cv::Point &_centroid)$/;"	f	class:Region
+setConvexArea	misc/bak/region.h	/^        inline void setConvexArea(const double &_convex_area)$/;"	f	class:Region
+setConvexArea	region.h	/^        inline void setConvexArea(const double &_convex_area)$/;"	f	class:Region
+setConvexHull	misc/bak/region.h	/^        inline void setConvexHull(const std::vector<cv::Point> &_convex_hull)$/;"	f	class:Region
+setConvexHull	region.h	/^        inline void setConvexHull(const std::vector<cv::Point> &_convex_hull)$/;"	f	class:Region
+setConvexImage	misc/bak/region.h	/^        inline void setConvexImage(const cv::Mat &_convexImage)$/;"	f	class:Region
+setConvexImage	region.h	/^        inline void setConvexImage(const cv::Mat &_convexImage)$/;"	f	class:Region
+setEccentricity	misc/bak/region.h	/^        inline void setEccentricity(const double &_eccentricity)$/;"	f	class:Region
+setEccentricity	region.h	/^        inline void setEccentricity(const double &_eccentricity)$/;"	f	class:Region
+setEllipse	misc/bak/region.h	/^        inline void setEllipse(const cv::RotatedRect &_ellipse)$/;"	f	class:Region
+setEllipse	region.h	/^        inline void setEllipse(const cv::RotatedRect &_ellipse)$/;"	f	class:Region
+setEquivalentDiameter	misc/bak/region.h	/^        inline void setEquivalentDiameter(const double &_equi_diameter)$/;"	f	class:Region
+setEquivalentDiameter	region.h	/^        inline void setEquivalentDiameter(const double &_equi_diameter)$/;"	f	class:Region
+setExtrema	misc/bak/region.h	/^        inline void setExtrema(const std::vector<cv::Point> &_extrema)$/;"	f	class:Region
+setExtrema	region.h	/^        inline void setExtrema(const std::vector<cv::Point> &_extrema)$/;"	f	class:Region
+setFilledArea	misc/bak/region.h	/^        inline void setFilledArea(const double &_filledArea)$/;"	f	class:Region
+setFilledArea	region.h	/^        inline void setFilledArea(const double &_filledArea)$/;"	f	class:Region
+setFilledImage	misc/bak/region.h	/^        inline void setFilledImage(const cv::Mat &_filledImage)$/;"	f	class:Region
+setFilledImage	region.h	/^        inline void setFilledImage(const cv::Mat &_filledImage)$/;"	f	class:Region
+setMajorAxis	misc/bak/region.h	/^        inline void setMajorAxis(const double &major_axis)$/;"	f	class:Region
+setMajorAxis	region.h	/^        inline void setMajorAxis(const double &major_axis)$/;"	f	class:Region
+setMaxLoc	misc/bak/region.h	/^        inline void setMaxLoc(const cv::Point &_maxloc)$/;"	f	class:Region
+setMaxLoc	region.h	/^        inline void setMaxLoc(const cv::Point &_maxloc)$/;"	f	class:Region
+setMaxVal	misc/bak/region.h	/^        inline void setMaxVal(const double &_maxval)$/;"	f	class:Region
+setMaxVal	region.h	/^        inline void setMaxVal(const double &_maxval)$/;"	f	class:Region
+setMeanVal	misc/bak/region.h	/^        inline void setMeanVal(const cv::Scalar &_meanval)$/;"	f	class:Region
+setMeanVal	region.h	/^        inline void setMeanVal(const cv::Scalar &_meanval)$/;"	f	class:Region
+setMinLoc	misc/bak/region.h	/^        inline void setMinLoc(const cv::Point &_minloc)$/;"	f	class:Region
+setMinLoc	region.h	/^        inline void setMinLoc(const cv::Point &_minloc)$/;"	f	class:Region
+setMinVal	misc/bak/region.h	/^        inline void setMinVal(const double &_minval)$/;"	f	class:Region
+setMinVal	region.h	/^        inline void setMinVal(const double &_minval)$/;"	f	class:Region
+setMinorAxis	misc/bak/region.h	/^        inline void setMinorAxis(const double &minor_axis)$/;"	f	class:Region
+setMinorAxis	region.h	/^        inline void setMinorAxis(const double &minor_axis)$/;"	f	class:Region
+setMoments	misc/bak/region.h	/^        inline void setMoments(const cv::Moments &_moments)$/;"	f	class:Region
+setMoments	region.h	/^        inline void setMoments(const cv::Moments &_moments)$/;"	f	class:Region
+setOrientation	misc/bak/region.h	/^        inline void setOrientation(const double &_orientation)$/;"	f	class:Region
+setOrientation	region.h	/^        inline void setOrientation(const double &_orientation)$/;"	f	class:Region
+setPerimeter	misc/bak/region.h	/^        inline void setPerimeter(const double &_perimeter)$/;"	f	class:Region
+setPerimeter	region.h	/^        inline void setPerimeter(const double &_perimeter)$/;"	f	class:Region
+setPixelList	misc/bak/region.h	/^        inline void setPixelList(const cv::Mat &_pixelList)$/;"	f	class:Region
+setPixelList	region.h	/^        inline void setPixelList(const cv::Mat &_pixelList)$/;"	f	class:Region
+setSolidity	misc/bak/region.h	/^        inline void setSolidity(const double &_solidity)$/;"	f	class:Region
+setSolidity	region.h	/^        inline void setSolidity(const double &_solidity)$/;"	f	class:Region
+shapeFeats	misc/bak/mcdetect.cpp	/^void cMcDetect::shapeFeats(vector<Point> contours)$/;"	f	class:cMcDetect
+shapeStats	f_Geometric.cpp	/^void cGeometric::shapeStats(const cv::Mat &GI, const cv::Mat &BI, vector<vector<double>> &vec)$/;"	f	class:cGeometric
+slave	featureP.cpp	/^void cFeatureP::slave()$/;"	f	class:cFeatureP
+slave	mpifun.cpp	/^void CMpifun::slave()$/;"	f	class:CMpifun
+solidity	misc/bak/region.h	/^        double convex_area, solidity;$/;"	m	class:Region
+solidity	misc/bak/regionprops.cpp	/^double RegionProps::solidity()$/;"	f	class:RegionProps
+solidity	region.h	/^        double convex_area, solidity;$/;"	m	class:Region
+solidity	regionprops.cpp	/^double RegionProps::solidity()$/;"	f	class:RegionProps
+sto	featureP.hpp	/^			double sY, B, sto; \/\/ Gamma(Y) and Beta (B)$/;"	m	struct:cFeatureP::__anon8
+sto	mpifun.hpp	/^			double sY, B, sto; \/\/ Gamma(Y) and Beta (B)$/;"	m	struct:CMpifun::__anon1
+svm_data	feature.hpp	/^		} svm_data;$/;"	m	class:cFeature	typeref:struct:cFeature::__anon10
+svm_data	featureP.hpp	/^		} svm_data;$/;"	m	class:cFeatureP	typeref:struct:cFeatureP::__anon3
+t_CLUS_DIST	lib.hpp	/^const static float t_CLUS_DIST=50; \/\/maximum inter-distance required for mcs to form cluster$/;"	v
+t_CLUS_SZ	lib.hpp	/^const static int t_CLUS_SZ=2;$/;"	v
+t_Eccentricity	lib.hpp	/^const static double t_Eccentricity=0.90;$/;"	v
+t_MAX_AREA	lib.hpp	/^const static int t_MIN_AREA=2, t_MAX_AREA=50;$/;"	v
+t_MIN_AREA	lib.hpp	/^const static int t_MIN_AREA=2, t_MAX_AREA=50;$/;"	v
+testNegDir	lib.hpp	/^const static string testNegDir ="\/media\/femkha\/HDB_FemkhaAcer\/images2\/norm_gt\/test\/"; \/\/ Negative testing samples$/;"	v
+testPosDir	lib.hpp	/^const static string testPosDir ="\/media\/femkha\/HDB_FemkhaAcer\/images2\/calc_gt\/test\/"; \/\/ Positive testing samples$/;"	v
+threshold	mcdetect.cpp	/^void cMcDetect::threshold(Mat &in, Mat &out)$/;"	f	class:cMcDetect
+threshold	misc/bak/mcdetect.cpp	/^void cMcDetect::threshold(Mat &in, Mat &out)$/;"	f	class:cMcDetect
+tmp	main.cpp	/^void tmp()$/;"	f
+trainNegDir	lib.hpp	/^const static string trainNegDir="\/media\/femkha\/HDB_FemkhaAcer\/images\/full\/norm\/";\/\/"\/media\/femkha\/HDB_FemkhaAcer\/images2\/norm_gt\/train\/"; \/\/ Negative training samples$/;"	v
+trainPosDir	lib.hpp	/^const static string trainPosDir="\/media\/femkha\/HDB_FemkhaAcer\/images\/full\/calc\/";\/\/"\/media\/femkha\/HDB_FemkhaAcer\/images2\/calc_gt\/train\/"; \/\/ Positive training samples$/;"	v
+updateK	featureP.cpp	/^void cFeatureP::updateK(int N, double Y, double to, int pf)$/;"	f	class:cFeatureP
+updateK	mpifun.cpp	/^void CMpifun::updateK(int N, double Y, double to, int pf)$/;"	f	class:CMpifun
+~CMpifun	mpifun.cpp	/^CMpifun::~CMpifun()$/;"	f	class:CMpifun
+~cHaralick	f_Haralick.cpp	/^cHaralick::~cHaralick()$/;"	f	class:cHaralick
